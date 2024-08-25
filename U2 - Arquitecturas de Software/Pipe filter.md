@@ -42,3 +42,13 @@ es directa. Puede implementarse como un sistema secuencial o como uno concurrent
 ## Desventajas
 
 El formato para la transferencia de datos debe acordarse entre las transformaciones que se comunican. Cada transformación debe analizar sus entradas y sintetizar sus salidas al formato acordado. Esto aumenta la carga del sistema, y puede significar que sea imposible reutilizar transformaciones funcionales que usen estructuras de datos incompatibles.
+
+## Fuentes
+
+1. **Pressman, Roger S.**  
+   *Ingeniería del Software: Un Enfoque Práctico.* 7ª edición.  
+   McGraw-Hill, 2014.  
+
+2. **Sommerville, Ian.**  
+   *Ingeniería de Software.* 9ª edición.  
+   Addison-Wesley, 2011.
